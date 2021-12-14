@@ -9,4 +9,4 @@
 
 - 👋 Hi, I’m Nguyen Anh Tu
 - 👀 I’m interested in Natural Language Processing core problems
-- 📫 How to reach me: [email](anhtunguyen446@gmail.com), [linkedin](https://www.linkedin.com/in/tuna-ptit/), [homepage](https:anhtunguyen98.github.io)
+- 📫 How to reach me: [email](anhtunguyen446@gmail.com), [linkedin](https://www.linkedin.com/in/tuna-ptit/), [homepage](https://anhtunguyen98.github.io)
